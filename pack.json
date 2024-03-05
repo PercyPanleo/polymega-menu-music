@@ -1,0 +1,10 @@
+{
+  "name": "Polymega - User Interface Ambience",
+  "description": "Menu music from the Polymega retro console",
+  "author": "PercyPanleo",
+  "version": "v1.0",
+  "manifest_version": 2,
+  "music": true,
+  "ignore": [],
+  "mappings": {}
+}
